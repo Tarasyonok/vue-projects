@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "6480a6b45299bc01bb788b14"
+  },
+  "username": "admin",
+  "firstName": "Женя",
+  "phone": "+7-000-000-00-00",
+  "lastName": "Скрипкин",
+  "avatar": "user0.png",
+  "info": "Nunc ullamcorper erat odio, et scelerisque quam consectetur a."
+},
+{
+  "_id": {
+    "$oid": "6481c2565299bc01bb788b18"
+  },
+  "username": "user1",
+  "firstName": "Александр",
+  "lastName": "Николаев",
+  "phone": "+7-111-111-11-11",
+  "avatar": "user1.png",
+  "info": "Maecenas orci nisi, vehicula nec lacus ac, varius rhoncus turpis."
+},
+{
+  "_id": {
+    "$oid": "6481c2565299bc01bb788b19"
+  },
+  "username": "user2",
+  "firstName": "Игорь",
+  "lastName": "Лебедев",
+  "phone": "+7-222-222-22-22",
+  "avatar": "user2.png",
+  "info": "Nunc cursus facilisis arcu ut venenatis."
+},
+{
+  "_id": {
+    "$oid": "6481c2565299bc01bb788b1a"
+  },
+  "username": "user3",
+  "firstName": "Анна",
+  "lastName": "Сидорова",
+  "phone": "+7-333-333-33-33",
+  "avatar": "user3.png",
+  "info": "Sed tempor nibh nec ornare mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+},
+{
+  "_id": {
+    "$oid": "6481c2565299bc01bb788b1d"
+  },
+  "username": "user4",
+  "firstName": "Татьяна",
+  "lastName": "Макарова",
+  "phone": "+7-444-444-44-44",
+  "avatar": "user4.png",
+  "info": "Etiam suscipit gravida elit. Suspendisse nec suscipit metus."
+}]

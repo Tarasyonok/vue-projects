@@ -1,0 +1,72 @@
+[
+    {
+        "topic": "Теги HTML",
+        "title": "Какой тег делает текст жирным?",
+        "answers": ["<bold>", "<b>", "<weight>", "<i>"],
+        "correctAnswer": 1,
+        "difficulty": "1"
+    },
+    {
+        "topic": "Теги HTML",
+        "title": "Какой тег делает текст наклонным?",
+        "answers": ["<i>", "<italic>", "<b>", "<///>"],
+        "correctAnswer": 0,
+        "difficulty": "1"
+    },
+    {
+        "topic": "Теги HTML",
+        "title": "Какой тег используется для создания абзаца?",
+        "answers": ["<h2>", "<abzats>", "<p>", "<div>"],
+        "correctAnswer": 2,
+        "difficulty": "1"
+    },
+    {
+        "topic": "Теги HTML",
+        "title": "Какой тег используется для создания заголовка первого уровня?",
+        "answers": ["<h1>", "<header>", "<p>", "<body>"],
+        "correctAnswer": 0,
+        "difficulty": "1"
+    },
+    {
+        "topic": "Теги HTML",
+        "title": "Для добавления изображений на страницу используется тег:",
+        "answers": ["<picture>", "<photo>", "<image>", "<img>"],
+        "correctAnswer": 3,
+        "difficulty": "1"
+    },
+    {
+        "topic": "Теги HTML",
+        "title": "Какой тег используется для переноса строки?",
+        "answers": ["<space>", "<br>", "<new>", "<enter>"],
+        "correctAnswer": 1,
+        "difficulty": "1"
+    },
+    {
+        "topic": "Теги HTML",
+        "title": "Как делаются коментарии в HTML?",
+        "answers": ["#", "<!-- -->", "<//>", "</* */>"],
+        "correctAnswer": 1,
+        "difficulty": "1"
+    },
+    {
+        "topic": "Теги HTML",
+        "title": "В каком блоке распологается служебная информация, неотображаемое содержимое",
+        "answers": ["<head>", "<header>", "<body>", "<footer>"],
+        "correctAnswer": 0,
+        "difficulty": "1"
+    },
+    {
+        "topic": "Теги HTML",
+        "title": "Какой тег поможет определить заголоваок веб-страницы (фраза, которая появится на ярлыке)?",
+        "answers": ["<name>", "<meta>", "<title>", "<link>"],
+        "correctAnswer": 2,
+        "difficulty": "1"
+    },
+    {
+        "topic": "Теги HTML",
+        "title": "Как правильно сделать маркированный список?",
+        "answers": ["<li><ul> </ul></li>", "<ol><li> </li></ol>", "<li><ul> </li></ul>", "<ul><li> </li></ul>"],
+        "correctAnswer": 3,
+        "difficulty": "1"
+    }
+]

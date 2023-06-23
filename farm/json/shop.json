@@ -1,0 +1,23 @@
+[
+	{
+		"title": "Картофель",
+		"image": "potato",
+		"buyPrice": 40,
+		"harvestPrice": 30,
+		"timeToGrow": 5
+	},
+	{
+		"title": "Клубника",
+		"buyPrice": 20,
+		"harvestPrice": 15,
+		"image": "strawberry",
+		"timeToGrow": 3
+	},
+	{
+		"title": "Базилик",
+		"buyPrice": 5,
+		"harvestPrice": 3,
+		"image": "basil",
+		"timeToGrow": 1
+	}
+]
